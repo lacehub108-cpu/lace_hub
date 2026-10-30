@@ -1,0 +1,11 @@
+# This file is used to configure the Shorebird
+# Learn more at https://docs.shorebird.dev
+# This file does not contain any sensitive information and should be checked into source control.
+
+app_id: 66ace17b-21f1-4bdf-b03b-a2d391a4915b
+
+# auto_update controls if Shorebird should automatically update the app.
+# If auto_update: false, you will need to use package:shorebird_code_push
+# https://pub.dev/packages/shorebird_code_push
+# Uncomment the following line to disable automatic updates.
+# auto_update: false
